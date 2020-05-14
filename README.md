@@ -1,4 +1,4 @@
-* [rrrr][#my-name-is-aleksandra-and-im-originally-from-ukraine-raising_hand]
+* [rrrr](#my-name-is-aleksandra-and-im-originally-from-ukraine-raising_hand)
 
 ## Good time of the day! Happy to see you on my Portfolio Page!
 
